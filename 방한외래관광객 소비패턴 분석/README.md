@@ -1,4 +1,4 @@
-# 방한 외래 관광객의 소비패턴에 따른 맞춤형 전략 연구
+## 방한 외래 관광객의 소비패턴에 따른 맞춤형 전략 연구
 
 ## 1. Why?
 * GDP 대비 관광산업 비중 OECD 회원국 순위 하위권인 우리나라  
@@ -22,4 +22,4 @@
 * 중국의 여성은 가장 많은 카드 금액 지출, 일본의 여성과 남성은 가장 적게 카드 금액 지출
 * 위 결과를 바탕으로 국가별 관광 마케팅 전략 제시
 
-## 6. Presentation(pdf file)
+[## 6. Presentation(pdf file)](https://github.com/sjsjlee/data_analysis_project_SPSS/blob/main/%EB%B0%A9%ED%95%9C%EC%99%B8%EB%9E%98%EA%B4%80%EA%B4%91%EA%B0%9D%20%EC%86%8C%EB%B9%84%ED%8C%A8%ED%84%B4%20%EB%B6%84%EC%84%9D/%EB%B0%A9%ED%95%9C%EC%99%B8%EB%9E%98%EA%B4%80%EA%B4%91%EA%B0%9D%20%EC%86%8C%EB%B9%84%ED%8C%A8%ED%84%B4%20%EB%B6%84%EC%84%9D.pdf)
