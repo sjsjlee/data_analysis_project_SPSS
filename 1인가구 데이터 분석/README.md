@@ -24,6 +24,6 @@
 
 ## 6. 한계
 * 원자료 데이터 파일의 한계로 전체인구가 아닌 특정 성별에 대한 데이터만을 분석했다.
-* 이를 개선하기 위해 1인가구 전체를 대상으로 하는 데이터를 찾을 필요가 있다.
+* 이를 개선하기 위해 1인가구 전체를 대상으로 하는 데이터를 대상으로 분석할 필요가 있다.
 
 ## 7. [Presentation(pdf file)](https://github.com/sjsjlee/data_analysis_project_SPSS/blob/main/1%EC%9D%B8%EA%B0%80%EA%B5%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/1%EC%9D%B8%EA%B0%80%EA%B5%AC%20%EC%97%B0%EB%A0%B9%EB%B3%84%20%EB%A7%9E%EC%B6%A4%ED%98%95%20%EC%A0%84%EB%9E%B5%20%EC%97%B0%EA%B5%AC.pdf)
